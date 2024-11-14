@@ -1,2 +1,0 @@
-# 2024_ICONICTHON_TEAM_8_AI
-[8팀] 날찾아조 AI 레포지토리
